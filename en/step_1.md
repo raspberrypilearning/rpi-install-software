@@ -1,19 +1,18 @@
-## Introduction
+Your Raspberry Pi will need to be online to install packages. Before installing a package, update and upgrade your Raspberry Pi.
 
-Add project description here. What will learners be making?
++ Open the terminal and enter the following commands to update and upgrade:
 
-### What you will make
+![Open the terminal](images/terminal.png)
 
-Add something here to showcase here, for example:
+```bash
+sudo apt-get update
+sudo apt-get upgrade
+```
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
++ Now you can install the packages you'll need by typing the commands into the terminal.
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+Here is an example of a command which installs the Sense HAT software
 
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+```bash
+sudo apt-get install sense-hat
+```
