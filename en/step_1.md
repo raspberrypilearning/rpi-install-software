@@ -9,7 +9,7 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 
-+ Now you can install the packages you'll need by typing `install` commands into the terminal window. For example, here's how to install the Sense HAT software.
++ Now you can install the packages you'll need by typing `install` commands into the terminal window. For example, here's how to install the Sense HAT software:
 
 ```bash
 sudo apt-get install sense-hat
