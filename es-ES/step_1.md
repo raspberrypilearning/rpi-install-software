@@ -1,15 +1,15 @@
-Your Raspberry Pi will need to be online to install packages. Before installing a package, update and upgrade Raspbian, your Raspberry Pi's operating system.
+Your Raspberry Pi will need to be online to install packages. Antes de instalar un paquete, utiliza los comandos update y upgrade para actualizar Raspbian, el sistema operativo de tu Raspberry Pi.
 
-+ Open a terminal window and enter the following commands to do this:
++ Para hacer esto, abre una ventana de terminal e introduce los siguientes comandos:
 
-![Open the terminal](images/terminal.png)
+![Abrir la Terminal](images/terminal.png)
 
 ```bash
 sudo apt-get update
 sudo apt-get upgrade
 ```
 
-+ Now you can install the packages you'll need by typing `install` commands into the terminal window. For example, here's how to install the Sense HAT software:
++ Ahora puedes instalar los paquetes que necesitarás escribiendo los comandos `install` en la ventana de la terminal. Por ejemplo, así se instala el software Sense HAT:
 
 ```bash
 sudo apt-get install sense-hat
