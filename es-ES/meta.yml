@@ -1,8 +1,8 @@
 ---
-title: Install a software package on the Raspberry Pi
-hero_image: images/banner.png
-description: Learn how to install a software package on the Raspberry Pi
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+title: Instalar un paquete de software en el Raspberry Pi
+hero_image: images / banner.png
+description: Aprende cómo instalar un paquete de software en Raspberry Pi
+theme: rojo #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
@@ -13,4 +13,4 @@ technologies: ""
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Introducción
