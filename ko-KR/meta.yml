@@ -1,8 +1,8 @@
 ---
-title: Install a software package on the Raspberry Pi
+title: Raspberry Pi에 소프트웨어 패키지 설치하기
 hero_image: images/banner.png
-description: Learn how to install a software package on the Raspberry Pi
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+description: Raspberry Pi에 소프트웨어 패키지를 설치하는 방법 알아보기
+theme: 빨간색 #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
@@ -13,4 +13,4 @@ technologies: ""
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: 들어가며
