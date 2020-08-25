@@ -1,4 +1,4 @@
-Your Raspberry Pi will need to be online to install packages. Antes de instalar un paquete, utiliza los comandos update y upgrade para actualizar Raspbian, el sistema operativo de tu Raspberry Pi.
+Tu Raspberry Pi tiene que estar en línea (nota: con conexión a internet) para instalar paquetes. Antes de instalar un paquete, utiliza los comandos update y upgrade para actualizar Raspbian, el sistema operativo de tu Raspberry Pi.
 
 + Para hacer esto, abre una ventana de terminal e introduce los siguientes comandos:
 
