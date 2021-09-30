@@ -1,7 +1,7 @@
 ---
-title: Zainstaluj pakiet oprogramowania na Raspberry Pi
+title: Instalowanie pakietów oprogramowania na Raspberry Pi
 hero_image: images/banner.png
-description: Naucz się, jak zainstalować pakiet oprogramowania na Raspberry Pi
+description: Naucz się, jak zainstalować pakiety oprogramowania na Raspberry Pi
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
