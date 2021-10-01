@@ -1,4 +1,4 @@
-Ton Raspberry Pi devra être en ligne pour installer des paquets. Avant d'installer un paquet, mets à jour et mets à niveau Raspbery Pi OS, le système d'exploitation de ton Raspberry Pi.
+Ton Raspberry Pi devra être connecté pour installer des paquets. Avant d'installer un paquet, mets à jour et mets à niveau Raspbery Pi OS, le système d'exploitation de ton Raspberry Pi.
 
 + Ouvre une fenêtre de terminal et entre les commandes suivantes pour faire ceci :
 
