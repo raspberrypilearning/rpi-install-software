@@ -1,4 +1,4 @@
-Twoje Raspberry Pi będzie musiało być podłączone do internetu, aby zainstalować pakiety. Przed zainstalowaniem pakietu, zaktualizuj i uaktualnij Raspbian, system operacyjny Raspberry Pi.
+Do wykonania poniższych kroków Raspberry Pi będzie musiało być podłączone do internetu. Przed instalacją pakietów należy zaktualizować Raspbian, system operacyjny Raspberry Pi.
 
 + Otwórz okno terminala i wpisz następujące polecenia:
 
@@ -9,7 +9,7 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 
-+ Teraz możesz zainstalować potrzebne pakiety, wpisując `install` polecenia w oknie terminala. Na przykład, oto jak zainstalować oprogramowanie Sense HAT:
++ Teraz możesz zainstalować potrzebne pakiety wpisując polecenie `install` w oknie terminala. Przykładowo, w taki sposób zainstalujesz oprogramowanie Sense HAT:
 
 ```bash
 sudo apt-get install sense-hat
